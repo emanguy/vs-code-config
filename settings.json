@@ -1,0 +1,27 @@
+{
+    "editor.cursorStyle": "block",
+    "terminal.integrated.fontFamily": "Ubuntu Mono derivative Powerline",
+    "editor.fontFamily": "Ubuntu Mono derivative Powerline",
+    "files.autoSave": "afterDelay",
+    "git.confirmSync": false,
+    "vim.useCtrlKeys": true,
+    "python.pythonPath": "/usr/bin/python3",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "window.zoomLevel": 0,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.js": {"when": "$(basename).ts"},
+        "**/*.js.map": true
+    },
+    "[cpp]": {
+        "editor.quickSuggestions": true
+    },
+    "[c]": {
+        "editor.quickSuggestions": true
+    }
+}
