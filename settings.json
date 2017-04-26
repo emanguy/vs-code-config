@@ -1,7 +1,7 @@
 {
     "editor.cursorStyle": "block",
-    "terminal.integrated.fontFamily": "Hasklig Medium",
-    "editor.fontFamily": "Hasklig Medium",
+    "terminal.integrated.fontFamily": "Fira Code Medium",
+    "editor.fontFamily": "Fira Code Medium",
     "editor.fontLigatures": true, 
     "files.autoSave": "afterDelay",
     "git.confirmSync": false,
